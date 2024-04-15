@@ -1,0 +1,14 @@
+D:\Bhargav\TestAssignment\bin\Debug\net8.0\TestAssignment.exe
+D:\Bhargav\TestAssignment\bin\Debug\net8.0\TestAssignment.deps.json
+D:\Bhargav\TestAssignment\bin\Debug\net8.0\TestAssignment.runtimeconfig.json
+D:\Bhargav\TestAssignment\bin\Debug\net8.0\TestAssignment.dll
+D:\Bhargav\TestAssignment\bin\Debug\net8.0\TestAssignment.pdb
+D:\Bhargav\TestAssignment\obj\Debug\net8.0\TestAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bhargav\TestAssignment\obj\Debug\net8.0\TestAssignment.AssemblyInfoInputs.cache
+D:\Bhargav\TestAssignment\obj\Debug\net8.0\TestAssignment.AssemblyInfo.cs
+D:\Bhargav\TestAssignment\obj\Debug\net8.0\TestAssignment.csproj.CoreCompileInputs.cache
+D:\Bhargav\TestAssignment\obj\Debug\net8.0\TestAssignment.dll
+D:\Bhargav\TestAssignment\obj\Debug\net8.0\refint\TestAssignment.dll
+D:\Bhargav\TestAssignment\obj\Debug\net8.0\TestAssignment.pdb
+D:\Bhargav\TestAssignment\obj\Debug\net8.0\TestAssignment.genruntimeconfig.cache
+D:\Bhargav\TestAssignment\obj\Debug\net8.0\ref\TestAssignment.dll
